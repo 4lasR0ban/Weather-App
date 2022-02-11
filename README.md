@@ -1,7 +1,8 @@
 # Weather-App
 
 ## Screenshoots
-### Initial View
+![Initial View](https://github.com/4lasR0ban/Weather-App/blob/master/documents/Initial%20View.png)
+![Aftermath View](https://github.com/4lasR0ban/Weather-App/blob/master/documents/Aftermath%20View.png)
 
 ## Built With
   * HTML
